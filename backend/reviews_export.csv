@@ -1,0 +1,51 @@
+ID,Customer,Match,Confidence,Status
+F-001,David Kim,partial,0.71,resolved
+F-002,Emma Thompson,full,0.85,pending
+F-003,,delivery_only,0.0,pending
+F-004,James Rodriguez,partial,0.61,pending
+F-005,Emma Thompson,full,0.99,pending
+F-006,David Kim,partial,0.76,pending
+F-007,Rachel Morgan,partial,0.7,pending
+F-008,David Kim,full,0.94,pending
+F-009,Marcus Williams,full,0.91,pending
+F-010,Priya Patel,order_only,0.0,pending
+F-011,Sarah Chen,partial,0.74,pending
+F-012,Priya Patel,partial,0.52,pending
+F-013,Emma Thompson,partial,0.68,pending
+F-014,James Rodriguez,full,0.96,pending
+F-015,,delivery_only,0.0,pending
+F-016,Nina Petrova,partial,0.29,pending
+F-017,Priya Patel,partial,0.72,pending
+F-018,Marcus Williams,full,0.93,pending
+F-019,Aiden OBrien,full,0.97,pending
+F-020,Sarah Chen,full,0.98,pending
+F-021,James Rodriguez,full,0.94,pending
+F-022,,delivery_only,0.0,pending
+F-023,James Rodriguez,partial,0.75,pending
+F-024,Aiden OBrien,order_only,0.0,pending
+F-025,Priya Patel,order_only,0.0,pending
+F-026,Priya Patel,full,0.89,pending
+F-027,Aiden OBrien,partial,0.63,pending
+F-028,,delivery_only,0.0,pending
+F-029,James Rodriguez,full,0.88,pending
+F-030,Emma Thompson,full,0.98,pending
+F-031,Nina Petrova,full,0.96,pending
+F-032,Rachel Morgan,full,0.96,pending
+F-033,Emma Thompson,partial,0.78,pending
+F-034,Aiden OBrien,full,0.97,pending
+F-035,Rachel Morgan,partial,0.65,pending
+F-036,,delivery_only,0.0,pending
+F-037,Rachel Morgan,full,0.93,pending
+F-038,Priya Patel,full,0.97,pending
+F-039,Rachel Morgan,partial,0.55,pending
+F-040,Marcus Williams,partial,0.31,pending
+F-041,David Kim,full,0.95,pending
+F-042,David Kim,full,0.92,pending
+F-043,Rachel Morgan,full,0.97,pending
+F-044,Sarah Chen,full,0.96,pending
+F-045,Aiden OBrien,order_only,0.0,pending
+F-046,Marcus Williams,order_only,0.0,pending
+F-047,Sarah Chen,order_only,0.0,pending
+F-048,Marcus Williams,full,0.99,pending
+F-049,Aiden OBrien,full,0.98,pending
+F-050,Sarah Chen,full,0.95,pending
